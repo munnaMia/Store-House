@@ -1,0 +1,1 @@
+A data structure is a way of organizing, managing, and storing data so that it can be accessed and modified efficiently.

@@ -1,0 +1,26 @@
+Linear:
+    1. List
+    2. Sets
+    3. Tuples
+    4. Stacks
+    5. Heaps
+    6. Queues
+
+Non-Linear:
+    1. Trees
+    2. Tables
+    3. Containers
+
+Homogeneous:
+    1. 2D Array
+    2. MultiD-Array
+
+Heterogeneous:
+    1. Linked-List
+    2. Ordered-List
+    3. Unordered-List
+
+Dynamic:
+    1. TreeSets
+    2. Sequences
+    3. Dictionaries
